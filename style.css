@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 500px;
+    object-fit: cover;
+}
