@@ -1,10 +1,17 @@
 body {
-    background-color: aqua;
+    background-color: rgb(78, 119, 51);
 }
 h1 {
     text-align: center;
+    padding: 50;
+    padding-bottom: 80;
 }
-img {
-    width: 500px;
-    object-fit: cover;
+.pictures{
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+a{
+    text-align: center;
+    padding-bottom: 80;
 }
