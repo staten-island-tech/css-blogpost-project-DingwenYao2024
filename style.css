@@ -1,17 +1,34 @@
 body {
     background-color: rgb(78, 119, 51);
 }
+
 h1 {
     text-align: center;
-    padding: 50;
-    padding-bottom: 80;
+    padding-top: 30;
+    padding-bottom: 60;
 }
-.pictures{
+
+h2 {
+    text-align: center;
+    
+}
+
+.post-img {
     width: 300px;
     margin: 0 auto;
     display: block;
 }
-a{
+
+p {
     text-align: center;
-    padding-bottom: 80;
+    padding-bottom: 30;
+}
+
+.post{
+    border: solid rgb(152, 240, 160);
+    margin: 70px ;
+}
+
+.post-link{
+    margin: 45vw;
 }
