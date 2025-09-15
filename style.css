@@ -10,7 +10,7 @@ h1 {
 
 h2 {
     text-align: center;
-    
+
 }
 
 .post-img {
@@ -24,11 +24,18 @@ p {
     padding-bottom: 30;
 }
 
-.post{
+.post {
     border: solid rgb(152, 240, 160);
-    margin: 70px ;
+    margin: 70px;
 }
 
-.post-link{
+.post-link {
     margin: 45vw;
+}
+
+body {
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
 }
